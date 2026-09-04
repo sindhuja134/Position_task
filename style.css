@@ -3,12 +3,12 @@ body {
 }
 
 
-.box {
+.child {
     width: 200px;
     height: 150px;
 
   
-
+    border: 3px solid black;
    
     line-height: 150px;
 
@@ -16,21 +16,21 @@ body {
 }
 
 
-.box1 {
+.child1 {
     top: 30px;
     left: 30px;
     background-color: lightcoral;
 }
 
 
-.box2 {
+.child2 {
     top: 30px;
     right: 30px;
     background-color: lightblue;
 }
 
 
-.box3 {
+.child3 {
     top: 220px;
     left: 50%;
    
@@ -38,14 +38,14 @@ body {
 }
 
 
-.box4 {
+.child4 {
     top: 430px;
     left: 30px;
     background-color: plum;
 }
 
 
-.box5 {
+.child5 {
     top: 430px;
     right: 30px;
     background-color: orange;
