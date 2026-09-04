@@ -19,14 +19,14 @@ body {
 .child1 {
     top: 30px;
     left: 30px;
-    background-color: lightcoral;
+    background-color: rgb(104, 7, 251);
 }
 
 
 .child2 {
     top: 30px;
     right: 30px;
-    background-color: lightblue;
+    background-color: rgb(120, 253, 4);
 }
 
 
@@ -35,19 +35,19 @@ body {
     left: 50%;
     transform: translateX(-50%);
   
-    background-color: lightgreen;
+    background-color: rgb(209, 220, 6);
 }
 
 
 .child4 {
-    top: 430px;
+    top: 400px;
     left: 30px;
-    background-color: plum;
+    background-color: rgb(217, 3, 217);
 }
 
 
 .child5 {
-    top: 430px;
+    top: 400px;
     right: 30px;
-    background-color: orange;
+    background-color: rgb(255, 0, 13);
 }
